@@ -5,8 +5,8 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="mailto:savlavedansh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/veddsavla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/savlavedansh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/savlavedansh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/veddsavla"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="tel:+918369785124"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"></a>
 </div>
 
@@ -89,15 +89,15 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h3 style="color: #58a6ff;">📊 My GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=savlavedansh&show_icons=true&theme=github_dark" alt="Vedansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savlavedansh&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veddsavla&show_icons=true&theme=github_dark" alt="Vedansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veddsavla&layout=compact&theme=github_dark" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savlavedansh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veddsavla&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 <div align="center">
   <p>Thanks for stopping by! Let's connect and create something amazing. ✨</p>
-  <img src="https://komarev.com/ghpvc/?username=savlavedansh&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=veddsavla&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div> 
