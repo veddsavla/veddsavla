@@ -87,57 +87,6 @@ Bachelor of Technology in Computer Engineering
 🤖 **GenAI Development** - Research Intern at LogicLoop  
 🔬 Building AI-powered research chatbots and agentic systems  
 📧 Developing MCP-based Gmail integrations for Claude Desktop  
-
----
-
-## 🏆 Featured Projects
-
-### **NotesAid** - PWA Platform for Engineering Students
-- 🚀 **15,000+ sessions** and **2,500+ unique users** in 80 days
-- Built with **Next.js, React, TypeScript, Tailwind CSS**
-- Centralized semester-wise academic resources
-
-### **Bytes** - AI-Powered Nutrition Tracker
-- 🎯 **>85% prediction accuracy** for food recognition
-- **MERN Stack** with custom-trained deep learning models
-- Real-time macronutrient analysis and personalized diet recommendations
-
-### **FoodDel** - Online Food Ordering Platform
-- 💳 Integrated **Stripe API** for secure payments
-- Complete **MERN Stack** application with admin dashboard
-- Responsive and dynamic user experience
-
-### **Uniserve** - NGO Management System
-- 🏢 Database-driven platform for NGO operations
-- Streamlined donor management and project tracking
-- Automated workflows with intuitive interface
-
----
-
-## 🌟 Specializations
-
-- **Full Stack Web Development** (MERN Stack)
-- **GenAI & LLM Development** (LangChain, Gemini)
-- **Progressive Web Applications** (PWA)
-- **AI/ML Integration** in web applications
-- **Database Design & Management**
-- **API Development & Integration**
-
----
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Vedansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=savlavedansh&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savlavedansh&layout=compact&theme=dark)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savlavedansh&theme=dark)
-
 ---
 
 *Thanks for visiting! Feel free to reach out for collaborations or just to say hi!* 😄
