@@ -1,21 +1,32 @@
-# Hi! I'm Vedansh Savla 👋
+<div align="center">
 
-## Full Stack Developer and GenAI Enthusiast
-
-### Aspiring Software Engineer
-
----
-
-**Hi, guys!** 👋
-
-Welcome to my page!
-
-*I'm Vedansh Savla, a passionate coder exploring the realms of technology.*
-
-[![Email](https://img.shields.io/badge/Email-savlavedansh%40gmail.com-red?style=flat-square&logo=gmail)](mailto:savlavedansh@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208369785124-green?style=flat-square&logo=phone)](tel:+918369785124)
-[![GitHub](https://img.shields.io/badge/GitHub-savlavedansh-black?style=flat-square&logo=github)](https://github.com/savlavedansh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-veddsavla-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/veddsavla)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td valign="top" style="border: none;">
+      <div align="left">
+        <h1>Hi! I'm Vedansh Savla 👋</h1>
+        <p><strong>Full Stack Developer and GenAI Enthusiast</strong></p>
+        <h3>Aspiring Software Engineer</h3>
+        <hr>
+        <div align="center">
+          <h3>Hi, guys! 👋</h3>
+          <p>Welcome to my page!</p>
+          <p><em>I'm Vedansh Savla, a passionate coder exploring the realms of technology.</em></p>
+          <p>
+            <a href="mailto:savlavedansh@gmail.com"><img src="https://img.shields.io/badge/Email-savlavedansh%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+            <a href="tel:+918369785124"><img src="https://img.shields.io/badge/Phone-%2B91%208369785124-green?style=flat-square&logo=phone" alt="Phone"></a>
+            <a href="https://github.com/savlavedansh"><img src="https://img.shields.io/badge/GitHub-savlavedansh-black?style=flat-square&logo=github" alt="GitHub"></a>
+            <a href="https://linkedin.com/in/veddsavla"><img src="https://img.shields.io/badge/LinkedIn-veddsavla-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+          </p>
+        </div>
+      </div>
+    </td>
+    <td valign="top" width="280px" align="center" style="border: none; padding-left: 20px;">
+        <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,react,nextjs,tailwind,threejs,nodejs,express,mongodb,postgres,git,docker,vscode&perline=6" alt="Skills" /><br>
+        <img src="https://i.imgur.com/vObs32V.png" alt="Other Skills" width="240" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,6 +114,18 @@ Bachelor of Technology in Computer Engineering
 
 ---
 
+## 🌟 Specializations
+
+- **Full Stack Web Development** (MERN Stack)
+- **GenAI & LLM Development** (LangChain, Gemini)
+- **Progressive Web Applications** (PWA)
+- **AI/ML Integration** in web applications
+- **Database Design & Management**
+- **API Development & Integration**
+
+---
+<div align="center">
+
 ## 📊 GitHub Stats
 
 ![Vedansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=savlavedansh&show_icons=true&theme=dark)
@@ -117,32 +140,9 @@ Bachelor of Technology in Computer Engineering
 
 ---
 
-## 🌟 Specializations
-
-- **Full Stack Web Development** (MERN Stack)
-- **GenAI & LLM Development** (LangChain, Gemini)
-- **Progressive Web Applications** (PWA)
-- **AI/ML Integration** in web applications
-- **Database Design & Management**
-- **API Development & Integration**
-
----
-
 *Thanks for visiting! Feel free to reach out for collaborations or just to say hi!* 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=savlavedansh&color=brightgreen)
+</div>
 
-<!--
-**veddsavla/veddsavla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div> 
