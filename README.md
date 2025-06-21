@@ -122,8 +122,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veddsavla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veddsavla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=veddsavla&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
 </div>
 
 ---
