@@ -45,10 +45,10 @@
 <td width="50%">
 
 ### 🎓 **Education Journey**
-- 🏛️ **K. J. Somaiya College of Engineering**
+- 🏫 **K. J. Somaiya College of Engineering**
 - 💻 B.Tech Computer Engineering  
 - 📊 **Honors in Data Science**
-- 📅 2022 – 2026
+- 🗕️ 2022 – 2026
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-| 🌟 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | 📊 **Impact** |
+| 🌟 **Project** | 📜 **Description** | 💪 **Tech Stack** | 📊 **Impact** |
 |---|---|---|---|
 | **NotesAid** | Progressive Web App for students | Next.js, TypeScript, PWA | **15K+ Sessions** |
 | **Bytes** | AI-powered nutrition tracker | MERN Stack, Deep Learning | **>85% Accuracy** |
@@ -75,6 +75,7 @@
 
 <div align="center">
 
+<!-- Languages & Frameworks -->
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -82,24 +83,28 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<!-- Frontend -->
 ### **Frontend Magic**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
+<!-- Backend -->
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!-- AI/ML -->
 ### **AI & Data Science**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+<!-- Tools -->
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -113,7 +118,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veddsavla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veddsavla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
@@ -126,7 +131,7 @@
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  
+
 [![Vedansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veddsavla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
