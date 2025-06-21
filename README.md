@@ -138,13 +138,6 @@
 
 ---
 
-## 🎨 **Fun Extras**
-
-<div align="center">
-
-### **GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=veddsavla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
