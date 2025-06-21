@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
   <p style="font-style: italic; color: #adbac7;">
     A passionate developer from Mumbai 🇮🇳, building innovative solutions with a focus on AI and modern web technologies.
   </p>
@@ -55,6 +59,15 @@
             <br/>
             <small>(MERN Stack, Deep Learning)</small>
           </li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td valign="top" width="50%" style="border: none;">
+     <div align="left">
+        <h3 style="color: #58a6ff;"></h3>
+        <ul>
           <li>
             <strong>FoodDel</strong> - Online food ordering platform with Stripe.
             <br/>
@@ -68,8 +81,19 @@
         </ul>
       </div>
     </td>
+     <td valign="top" width="50%" style="border: none;">
+     <div align="left">
+        <h3 style="color: #58a6ff;"></h3>
+        <ul>
+        </ul>
+      </div>
+    </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
@@ -84,7 +108,9 @@
   </p>
 </div>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -95,7 +121,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veddsavla&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%">
+</div>
 
 <div align="center">
   <p>Thanks for stopping by! Let's connect and create something amazing. ✨</p>
