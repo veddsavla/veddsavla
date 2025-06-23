@@ -119,31 +119,13 @@
 
 ---
 
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-[![Vedansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veddsavla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
-## 🎨 **Fun Extras**
-
-<div align="center">
-
-### **GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=veddsavla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
-</div>
 
 ## 💡 **Let's Create Something Amazing Together!**
 
